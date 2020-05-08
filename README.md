@@ -1,5 +1,5 @@
 # Introduction
-This project serves as that main UI for `dailywombat.com`.  This UI is implemented in ReactJS and is deployed to an S3 bucket as a static website.
+This project serves as the main UI for `dailywombat.com`.  This UI is implemented in ReactJS and is deployed to an S3 bucket as a static website.
 
 # Running Locally
 To run locally, run `npm start`.  This will start the server and open up a browser tab at `http//localhost:3000`.
